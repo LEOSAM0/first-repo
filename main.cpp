@@ -5,4 +5,4 @@
 
 //ewewqweweq
 //perfect
-int main(){}
+int MainFunction(){}
