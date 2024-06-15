@@ -5,4 +5,9 @@
 
 //ewewqweweq
 //perfect
+<<<<<<< HEAD
 int MAINFUNCION(){}
+=======
+int MAINFUNC(){}
+//454
+>>>>>>> dev
